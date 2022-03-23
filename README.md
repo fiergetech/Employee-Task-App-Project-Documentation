@@ -11,7 +11,8 @@
 
 # Overview
 This Mobile App is an interface used by technician of the Water Company and gateway technician from Gamatechno to support our end-to-end solutions to connect and collect customer complaint water meter, gateways, and devices.
-![image](uploads/7ffdd22eeeb0e42a892ad1b6f649084b/image.png)
+
+![petugas preview](https://user-images.githubusercontent.com/72726406/159609450-b1ddf76b-9adc-40ae-b6da-a26d8b704a6c.png)
 
 # Objectives
 1. Water meter technician with the services from Organizations/Water Company that using our platform.
