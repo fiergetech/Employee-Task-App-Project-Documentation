@@ -1,6 +1,6 @@
 # Employee Task App Project Information
 
-Welcome to the Employee Task App Project Information
+This is a project information for employee task assignment App
 
 [[_TOC_]]
 
@@ -39,7 +39,7 @@ This Mobile App is an interface used by technician of the Water Company and gate
    - [Device](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Device-List)
    - [Manajemen Gateway](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Gateway-Management)
    - [Tickets](Mobile-Application-Petugas/Home-page/Tickets)
-- [Profil Page](Mobile-Application-Petugas/Profil-Page)
+- [Profil Page](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Profile)
    - [Edit Profil](Mobile-Application-Petugas/Profil-Page/Edit-Profil)
 - [Penugasan](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Penugasan-All)
    - [Semua Data](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Penugasan-Semua-Data)
