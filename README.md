@@ -1,18 +1,20 @@
 # Employee Task App Project Information
 
+Welcome to the Employee Task App Project Information
+
 [[_TOC_]]
 
 | Ownership info | |
 | --- | --- |
-| **Author** | @fiergetech |
+| **Author** | @hindro|
 | **Frontend Android** |  |
 | **Backend API** |  |
-| **Designer** | @fiergetech |
+| **Designer** | @hindro |
 
 # Overview
 This Mobile App is an interface used by technician of the Water Company and gateway technician from Gamatechno to support our end-to-end solutions to connect and collect customer complaint water meter, gateways, and devices.
 
-![petugas preview](https://user-images.githubusercontent.com/72726406/159609450-b1ddf76b-9adc-40ae-b6da-a26d8b704a6c.png)
+![petugas preview](https://user-images.githubusercontent.com/72726406/159609654-e158c9a5-0f50-410d-8ca7-97aaa1e0ead3.png)
 
 # Objectives
 1. Water meter technician with the services from Organizations/Water Company that using our platform.
@@ -32,17 +34,17 @@ This Mobile App is an interface used by technician of the Water Company and gate
 [sample case 2] Toni is a Water Meter technician, he got a report for installing new water meter device for customer. So, he open petugas app and access "device" button, and see a new task for installing new water meter.
 # Features
 - [Authentication](Mobile-Application-Petugas/Authentication)
-- [Home Page](Mobile-Application-Petugas/Home Page)
-   - [Tenant](Mobile-Application-Petugas/Home Page/Tenant)
-   - [Device](Mobile-Application-Petugas/Home Page/Device)
-   - [Manajemen Gateway](Mobile-Application-Petugas/Home Page/Manajemen Gateway)
-   - [Tickets](Mobile-Application-Petugas/Home Page/Tickets)
-- [Profil Page](Mobile-Application-Petugas/Profil Page)
+- [Home Page](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Home-Page)
+   - [Tenant](Mobile-Application-Petugas/Home-Page/Tenant)
+   - [Device](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Device-List)
+   - [Manajemen Gateway](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Gateway-Management)
+   - [Tickets](Mobile-Application-Petugas/Home-page/Tickets)
+- [Profil Page](Mobile-Application-Petugas/Profil-Page)
    - [Edit Profil](Mobile-Application-Petugas/Profil-Page/Edit-Profil)
-- [Penugasan](Mobile-Application-Petugas/Penugasan)
-   - [Semua Data](Mobile-Application-Petugas/Home Page/Semua Data)
-   - [Perbaikan](Mobile-Application-Petugas/Home Page/Perbaikan)
-   - [Pemasangan](Mobile-Application-Petugas/Home Page/Pemasangan)
+- [Penugasan](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Penugasan-All)
+   - [Semua Data](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Penugasan-Semua-Data)
+   - [Perbaikan](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Penugasan-Perbaikan)
+   - [Pemasangan](https://github.com/fiergetech/Employee-Task-App-UI-UX-Mobile-Design-/wiki/Penugasan-Pemasangan)
 # Success Metrics
 # Open Issues
 # Q&A
@@ -55,3 +57,4 @@ This Mobile App is an interface used by technician of the Water Company and gate
 
 - UI Design & Protyping
 [UI Design Selengkapnya (Updated on Figma)](https://www.figma.com/file/FM8UxqbxxngGzT846CByoq/Ngalir---new?node-id=0%3A1)
+
