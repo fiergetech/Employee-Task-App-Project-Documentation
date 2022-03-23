@@ -7,7 +7,7 @@ Welcome to the Employee Task App Project Information
 | Ownership info | |
 | --- | --- |
 | **Author** | @hindro|
-| **Frontend Android** |  |
+| **Frontend Android** | @hindro |
 | **Backend API** |  |
 | **Designer** | @hindro |
 
