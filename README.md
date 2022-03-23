@@ -1,4 +1,4 @@
-# Employee-Task-App-UI-UX-Mobile-Design-
+# Employee Task App Project Information
 
 [[_TOC_]]
 
