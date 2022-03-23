@@ -4,10 +4,10 @@
 
 | Ownership info | |
 | --- | --- |
-| **Author** | @hindro|
-| **Frontend Android** | @aka.madya |
-| **Backend API** | @muhammad7495 |
-| **Designer** | N/A|
+| **Author** | @fiergetech |
+| **Frontend Android** |  |
+| **Backend API** |  |
+| **Designer** | @fiergetech |
 
 # Overview
 This Mobile App is an interface used by technician of the Water Company and gateway technician from Gamatechno to support our end-to-end solutions to connect and collect customer complaint water meter, gateways, and devices.
