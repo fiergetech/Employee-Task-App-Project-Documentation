@@ -14,7 +14,7 @@ This is a project information for employee task assignment App
 # Overview
 This Mobile App is an interface used by technician of the Water Company and gateway technician from Gamatechno to support our end-to-end solutions to connect and collect customer complaint water meter, gateways, and devices.
 
-![petugas preview](https://user-images.githubusercontent.com/72726406/159609654-e158c9a5-0f50-410d-8ca7-97aaa1e0ead3.png)
+![antriin-display](https://user-images.githubusercontent.com/72726406/160219905-eced95ec-e673-463f-aebb-64ade8e18362.PNG)
 
 # Objectives
 1. Water meter technician with the services from Organizations/Water Company that using our platform.
